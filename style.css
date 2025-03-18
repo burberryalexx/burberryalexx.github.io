@@ -2,15 +2,11 @@ nav{
     width: 100%;
     
     height: 40px;
-  }
+}
 
 div {
     text-align: center;
-
-}
-
-h2{
-  text-align: center;
+ 
 }
 
 .zzz img{
@@ -28,7 +24,6 @@ h2{
    }
 
 /*Empieza el menu*/
-
 .dropdownmenu ul, .dropdownmenu li{
     margin: 0px;
     padding: 0px;
@@ -88,5 +83,5 @@ li:hover ul#submenu{
       width: 100%;
   }
   
-  /*fin menú*/
+
 
